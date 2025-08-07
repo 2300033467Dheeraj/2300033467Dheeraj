@@ -8,6 +8,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=2300033467Dheeraj&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=2300033467Dheeraj&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=2300033467Dheeraj&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=2300033467Dheeraj&theme=shadow_red&no-frame=true&no-bg=false&margin-w=4)
